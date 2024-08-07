@@ -1,0 +1,9 @@
+2024-08-07 15:46:25.047606: Se ha realizado la consulta de una playlist
+2024-08-07 15:46:36.201411: Se ha realizado el alta de un nuevo registro
+2024-08-07 15:46:43.334692: Se ha eliminado una cancion de la base de datos
+2024-08-07 15:46:45.657100: Se ha eliminado una cancion de la base de datos
+2024-08-07 15:46:49.152328: Se ha eliminado una cancion de la base de datos
+2024-08-07 15:46:51.616241: Se ha realizado la consulta de una playlist
+2024-08-07 15:46:55.127301: Se ha realizado la consulta de una playlist
+2024-08-07 15:46:59.084218: Se ha eliminado una playlist de la base de datos
+2024-08-07 18:46:02.419895: Se ha realizado la consulta de una playlist
